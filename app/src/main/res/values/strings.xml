@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ads</string>
+    <string name="view_all_mechanics">View All Mechanics</string>
+    <string name="part_market_place">Part Market Place</string>
+    <string name="run_diagnostics">Run Diagnostics</string>
+    <string name="welcome_please_keep_this_running_in_the_background">Welcome, Please keep this running in the background</string>
+    <string name="ads">ADS</string>
+    <string name="schedule_visit">Schedule Visit</string>
+    <string name="view_all">View all</string>
+    <string name="recommandation">Recommandation</string>
+    View Details
+    <string name="todo">TODO</string>
+    <string name="closest_service_center2">Closest Service Center</string>
+    <string name="onome_auto_body_123_sample_rd_chicago_il_60989">Onome Auto Body 123 Sample Rd, Chicago Il 60989</string>
+    <string name="diy_recommendation_or_bring_your_car_to_an_authorized_service_center">DIY recommendation or bring your car to an authorized service center</string>
+    <string name="problem_1">Problem 1</string>
+    <string name="find_partss">Find Parts</string>
+    <string name="view_details">View Details</string>
+    <string name="we_have_indentified_problem_s_with_your_vehicle">We have indentified problem(s) with your vehicle</string>
+</resources>
